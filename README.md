@@ -21,7 +21,7 @@ When you're ready to deploy, use the git add, git commit, and git push commands 
 Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
 
 ## Usage
-[Project.io](https://scorpion77777.github.io/password-gen/)
+[Git Deployed](https://scorpion77777.github.io/password-gen/)
 
 ![screenshot1](./Assets/screenshot1.png)
 

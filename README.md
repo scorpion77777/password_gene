@@ -1,10 +1,7 @@
 # <Password-Generator>
 
 ## Description
-- The motivation behind the project was to create an effective password generator with specific guidelines and conditions!
-- I built this project to depend my knowledge on the fundamentals of Javascript and how to setup functions and logic correctly and efficiently.
-- This solved multiple issues and was a big challenge for me personally since I had to really learn interactions and how to setup syntax correctly.
-- I learned a lot about logical operators, hoisting, if statements, for loops, and etc.! (Definitely the most impactful project so far!)
+Password generator based on your input!!
 
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
